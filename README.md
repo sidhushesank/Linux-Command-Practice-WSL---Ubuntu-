@@ -360,6 +360,12 @@ mv
 # Screenshots
 
 Screenshots of terminal execution are included in this repository to demonstrate the command outputs and workflow.
+![WhatsApp Image 2026-03-16 at 10 13 02 PM](https://github.com/user-attachments/assets/f4e17a35-3545-4212-bad1-0efe26fbac9c)
+![WhatsApp Image 2026-03-16 at 10 08 03 PM](https://github.com/user-attachments/assets/a5b46fc6-bb91-4b9f-941e-da8f6000cae6)
+![WhatsApp Image 2026-03-16 at 9 57 07 PM](https://github.com/user-attachments/assets/e90e8869-c94a-49f3-985d-5989be8f22b6)
+![WhatsApp Image 2026-03-16 at 9 51 04 PM](https://github.com/user-attachments/assets/c3c0b96b-a31a-42ef-bd61-d20959bcdf65)
+![WhatsApp Image 2026-03-16 at 9 20 08 PM](https://github.com/user-attachments/assets/0557d189-e8ca-4657-a6ce-343496f095ce)
+
 
 ---
 
